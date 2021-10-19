@@ -13,8 +13,8 @@ https://sdkman.io/install
 4. Setup ENV
 `sdk env init`
 
-5. Setup Folders
-`./setup.sh`
+5. Run
+`./run.sh`
 
 6. Check your Spark application is running
 http://localhost:4567/
